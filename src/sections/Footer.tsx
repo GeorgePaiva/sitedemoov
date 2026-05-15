@@ -161,7 +161,7 @@ export function Footer() {
             <a href="#" className="transition-colors hover:text-white">Política de Privacidade</a>
             <a href="#" className="transition-colors hover:text-white">Termos de Uso</a>
             <span className="text-white/30">·</span>
-            <span>CRO-CE ativo</span>
+            <span>Desenvolvido por George Paiva</span>
           </div>
         </div>
       </div>
