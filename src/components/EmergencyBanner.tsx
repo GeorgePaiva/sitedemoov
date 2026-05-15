@@ -31,7 +31,7 @@ export function EmergencyBanner() {
           </span>
           <p className="font-medium truncate">
             <span className="hidden sm:inline">Ambiente Demonstrativo:</span>
-            <span className="sm:hidden">Emergência?</span>{' '}
+            {/* <span className="sm:hidden">Emergência?</span>{' '} */}
             <a
               // href={WHATSAPP_LINKS.emergency}
               // target="_blank"
